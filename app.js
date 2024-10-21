@@ -63,6 +63,7 @@ function playSong() {
 // Función para pausar la canción actual
 function pauseSong() {
   audio.pause();
+  
 }
 
 // Función para detener la canción actual (pausa y reinicia)
