@@ -57,6 +57,9 @@ function playSong() {
   audio.play();
 }
 
+
+
+
 // Función para pausar la canción actual
 function pauseSong() {
   audio.pause();
